@@ -5,4 +5,4 @@ Download as-is and follow instructions to create your Tinder usage statistics an
 Data used for project
 
 # Tinder Presentation.pdf
-GitHub-viewable version of slides
+GitHub-viewable version of slides from presentation to Columbia data science students
